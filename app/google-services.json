@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338666809531",
+    "project_id": "jordanx-7c90e",
+    "storage_bucket": "jordanx-7c90e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338666809531:android:7dc458671fb5425343619e",
+        "android_client_info": {
+          "package_name": "com.example.jordanx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1HdEZgrLBp5wN-kD2v-gkmwctDaXHVrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
